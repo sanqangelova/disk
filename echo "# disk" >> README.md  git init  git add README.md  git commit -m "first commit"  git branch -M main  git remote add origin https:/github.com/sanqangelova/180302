@@ -1,0 +1,7 @@
+echo "# disk" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/sanqangelova/disk.git
+ git push - u основен произход
